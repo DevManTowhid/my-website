@@ -1,0 +1,1892 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.7.8)  23 OCT 2026 18:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"D:/Desktop/my website/frontend/public/RUET_logo.png"
+(D:/Desktop/my website/frontend/public/RUET_logo.png
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+
+! LaTeX Error: Invalid UTF-8 byte "89.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 â
+     PNG
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 âP
+      NG
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no P in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no G in font nullfont!
+
+! LaTeX Error: Unicode character ^^Z (U+001A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ^^Z
+       
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ^^@
+       ^^@^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ^^@^^@
+          ^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ^^@^^@^^@
+             
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--3
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 I
+     HDR^^@^^@^^E8^^@^^@^^F@^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no I in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no R in font nullfont!
+! Text line contains an invalid character.
+l.4 IHDR^^@
+           ^^@^^E8^^@^^@^^F@^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.4 IHDR^^@^^@
+              ^^E8^^@^^@^^F@^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^E (U+0005)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 IHDR^^@^^@^^E
+                 8^^@^^@^^F@^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 8 in font nullfont!
+! Text line contains an invalid character.
+l.4 IHDR^^@^^@^^E8^^@
+                     ^^@^^F@^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.4 IHDR^^@^^@^^E8^^@^^@
+                        ^^F@^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^F (U+0006)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 IHDR^^@^^@^^E8^^@^^@^^F
+                           @^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no @ in font nullfont!
+
+! LaTeX Error: Unicode character ^^H (U+0008)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 IHDR^^@^^@^^E8^^@^^@^^F@^^H
+                               ^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 IHDR^^@^^@^^E8^^@^^@^^F@^^H^^B
+                                  ^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.4 IHDR^^@^^@^^E8^^@^^@^^F@^^H^^B^^@
+                                     ^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.4 IHDR^^@^^@^^E8^^@^^@^^F@^^H^^B^^@^^@
+                                        ^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.4 IHDR^^@^^@^^E8^^@^^@^^F@^^H^^B^^@^^@^^@
+                                           “^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (“^^R).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 IHDR^^@^^@^^E8^^@^^@^^F@^^H^^B^^@^^@^^@“^^R
+                                               ∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "BA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 IHDR^^@^^@^^E8^^@^^@^^F@^^H^^B^^@^^@^^@“^^R∫
+                                                ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "9D.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 IHDR^^@^^@^^E8^^@^^@^^F@^^H^^B^^@^^@^^@“^^R∫ù
+                                                 ^^@^^@^^P^^@IDATx^^AÏ}^^G†d...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+! Text line contains an invalid character.
+l.4 ...^@^^@^^E8^^@^^@^^F@^^H^^B^^@^^@^^@“^^R∫ù^^@
+                                                  ^^@^^P^^@IDATx^^AÏ}^^G†dEï...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.4 ...^@^^E8^^@^^@^^F@^^H^^B^^@^^@^^@“^^R∫ù^^@^^@
+                                                  ^^P^^@IDATx^^AÏ}^^G†dEïˆ9ß...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^E8^^@^^@^^F@^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P
+                                                  ^^@IDATx^^AÏ}^^G†dEïˆ9ßÍﬁ€...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.4 ...^^@^^@^^F@^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@
+                                                  IDATx^^AÏ}^^G†dEïˆ9ßÍﬁ€›ÔΩ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no I in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no x in font nullfont!
+
+! LaTeX Error: Unicode character ^^A (U+0001)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...F@^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^A
+                                                  Ï}^^G†dEïˆ9ßÍﬁ€›ÔΩâdDA$((H...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Argument of \UTFviii@three@octets@combine has an extra }.
+<inserted text> 
+                \par 
+l.4 ...^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}
+                                                  ^^G†dEïˆ9ßÍﬁ€›ÔΩâdDA$((Hêå...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \UTFviii@three@octets@combine was complete.
+<to be read again> 
+                   \par 
+l.4 ...^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}
+                                                  ^^G†dEïˆ9ßÍﬁ€›ÔΩâdDA$((Hêå...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--4
+[] 
+ []
+
+! Too many }'s.
+<recently read> }
+                 
+l.4 ...^^H^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}
+                                                  ^^G†dEïˆ9ßÍﬁ€›ÔΩâdDA$((Hêå...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: Unicode character ^^G (U+0007)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G
+                                                  †dEïˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Invalid UTF-8 byte "A0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†
+                                                  dEïˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^D...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...B^^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†d
+                                                  Eïˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^DI...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no E in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "95.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†dEï
+                                                  ˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^DIb^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "F6.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...@^^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†dEïˆ
+                                                  9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^DIb^^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no 9 in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "A7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^@^^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†dEïˆ9ß
+                                                  Íﬁ€›ÔΩâdDA$((HêåÄ^^DIb^^Nò...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Íﬁ€).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^@“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†dEïˆ9ßÍﬁ€
+                                                  ›ÔΩâdDA$((HêåÄ^^DIb^^Nòs^]...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (›Ô).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...“^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†dEïˆ9ßÍﬁ€›Ô
+                                                  ΩâdDA$((HêåÄ^^DIb^^Nòs^]sX...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "BD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†dEïˆ9ßÍﬁ€›ÔΩ
+                                                  âdDA$((HêåÄ^^DIb^^Nòs^]sXu...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "89.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^R∫ù^^@^^@^^P^^@IDATx^^AÏ}^^G†dEïˆ9ßÍﬁ€›ÔΩâ
+                                                  dDA$((HêåÄ^^DIb^^Nòs^]sXuç...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no A in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^@^^P^^@IDATx^^AÏ}^^G†dEïˆ9ßÍﬁ€›ÔΩâdDA$((Hê
+                                                  åÄ^^DIb^^Nòs^]sXuçòs\√∫¶u˜...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "8C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...@^^P^^@IDATx^^AÏ}^^G†dEïˆ9ßÍﬁ€›ÔΩâdDA$((Hêå
+                                                  Ä^^DIb^^Nòs^]sXuçòs\√∫¶u˜ﬂ...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "80.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^P^^@IDATx^^AÏ}^^G†dEïˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ
+                                                  ^^DIb^^Nòs^]sXuçòs\√∫¶u˜ﬂ]...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^@IDATx^^AÏ}^^G†dEïˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^D
+                                                  Ib^^Nòs^]sXuçòs\√∫¶u˜ﬂ]›uu...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^N (U+000E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ATx^^AÏ}^^G†dEïˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^DIb^^N
+                                                  òs^]sXuçòs\√∫¶u˜ﬂ]›uu’5Ìö÷...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Invalid UTF-8 byte "98.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Tx^^AÏ}^^G†dEïˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^DIb^^Nò
+                                                  s^]sXuçòs\√∫¶u˜ﬂ]›uu’5Ìö÷^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "8D.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^G†dEïˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^DIb^^Nòs^]sXuç
+                                                  òs\√∫¶u˜ﬂ]›uu’5Ìö÷^^\ëå0§…...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "98.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^G†dEïˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^DIb^^Nòs^]sXuçò
+                                                  s\√∫¶u˜ﬂ]›uu’5Ìö÷^^\ëå0§…Û...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+! Undefined control sequence.
+l.4 ...dEïˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^DIb^^Nòs^]sXuçòs\√
+                                                  ∫¶u˜ﬂ]›uu’5Ìö÷^^\ëå0§…ÛRwﬂ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Invalid UTF-8 byte "BA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Eïˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^DIb^^Nòs^]sXuçòs\√∫
+                                                  ¶u˜ﬂ]›uu’5Ìö÷^^\ëå0§…ÛRwﬂP...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "A6.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ïˆ9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^DIb^^Nòs^]sXuçòs\√∫¶
+                                                  u˜ﬂ]›uu’5Ìö÷^^\ëå0§…ÛRwﬂPu...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "F7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...9ßÍﬁ€›ÔΩâdDA$((HêåÄ^^DIb^^Nòs^]sXuçòs\√∫¶u˜
+                                                  ﬂ]›uu’5Ìö÷^^\ëå0§…ÛRwﬂPuŒˇ...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ﬂ]).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Íﬁ€›ÔΩâdDA$((HêåÄ^^DIb^^Nòs^]sXuçòs\√∫¶u˜ﬂ]
+                                                  ›uu’5Ìö÷^^\ëå0§…ÛRwﬂPuŒˇ›Ó...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (›u).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...€›ÔΩâdDA$((HêåÄ^^DIb^^Nòs^]sXuçòs\√∫¶u˜ﬂ]›u
+                                                  u’5Ìö÷^^\ëå0§…ÛRwﬂPuŒˇ›Óa^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (’5).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ΩâdDA$((HêåÄ^^DIb^^Nòs^]sXuçòs\√∫¶u˜ﬂ]›uu’5
+                                                  Ìö÷^^\ëå0§…ÛRwﬂPuŒˇ›Óa^^\^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ìö÷).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...DA$((HêåÄ^^DIb^^Nòs^]sXuçòs\√∫¶u˜ﬂ]›uu’5Ìö÷
+                                                  ^^\ëå0§…ÛRwﬂPuŒˇ›Óa^^\^^Tu...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^\ (U+001C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...((HêåÄ^^DIb^^Nòs^]sXuçòs\√∫¶u˜ﬂ]›uu’5Ìö÷^^\
+                                                  ëå0§…ÛRwﬂPuŒˇ›Óa^^\^^Tu^^F...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Invalid UTF-8 byte "91.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...(HêåÄ^^DIb^^Nòs^]sXuçòs\√∫¶u˜ﬂ]›uu’5Ìö÷^^\ë
+                                                  å0§…ÛRwﬂPuŒˇ›Óa^^\^^Tu^^FÊ...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "8C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...HêåÄ^^DIb^^Nòs^]sXuçòs\√∫¶u˜ﬂ]›uu’5Ìö÷^^\ëå
+                                                  0§…ÛRwﬂPuŒˇ›Óa^^\^^Tu^^FÊ1...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "A4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...åÄ^^DIb^^Nòs^]sXuçòs\√∫¶u˜ﬂ]›uu’5Ìö÷^^\ëå0§
+                                                  …ÛRwﬂPuŒˇ›Óa^^\^^Tu^^FÊ1Äu...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (…Û).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^DIb^^Nòs^]sXuçòs\√∫¶u˜ﬂ]›uu’5Ìö÷^^\ëå0§…Û
+                                                  RwﬂPuŒˇ›Óa^^\^^Tu^^FÊ1Äu=]...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ﬂP).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...b^^Nòs^]sXuçòs\√∫¶u˜ﬂ]›uu’5Ìö÷^^\ëå0§…ÛRwﬂP
+                                                  uŒˇ›Óa^^\^^Tu^^FÊ1Äu=]]∑¬	...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Œˇ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Nòs^]sXuçòs\√∫¶u˜ﬂ]›uu’5Ìö÷^^\ëå0§…ÛRwﬂPuŒˇ
+                                                  ›Óa^^\^^Tu^^FÊ1Äu=]]∑¬	_’Ω...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (›Ó).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...s^]sXuçòs\√∫¶u˜ﬂ]›uu’5Ìö÷^^\ëå0§…ÛRwﬂPuŒˇ›Ó
+                                                  a^^\^^Tu^^FÊ1Äu=]]∑¬	_’Ω]_...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^\ (U+001C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Xuçòs\√∫¶u˜ﬂ]›uu’5Ìö÷^^\ëå0§…ÛRwﬂPuŒˇ›Óa^^\
+                                                  ^^Tu^^FÊ1Äu=]]∑¬	_’Ω]_’^^[...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^T (U+0014)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...òs\√∫¶u˜ﬂ]›uu’5Ìö÷^^\ëå0§…ÛRwﬂPuŒˇ›Óa^^\^^T
+                                                  u^^FÊ1Äu=]]∑¬	_’Ω]_’^^[îa∫...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^F (U+0006)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...∫¶u˜ﬂ]›uu’5Ìö÷^^\ëå0§…ÛRwﬂPuŒˇ›Óa^^\^^Tu^^F
+                                                  Ê1Äu=]]∑¬	_’Ω]_’^^[îa∫^^R^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ê1Ä).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...˜ﬂ]›uu’5Ìö÷^^\ëå0§…ÛRwﬂPuŒˇ›Óa^^\^^Tu^^FÊ1Ä
+                                                  u=]]∑¬	_’Ω]_’^^[îa∫^^R^^B	...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "B7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...u’5Ìö÷^^\ëå0§…ÛRwﬂPuŒˇ›Óa^^\^^Tu^^FÊ1Äu=]]∑
+                                                  ¬	_’Ω]_’^^[îa∫^^R^^B	ÅÑ@B ...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (¬_).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Ìö÷^^\ëå0§…ÛRwﬂPuŒˇ›Óa^^\^^Tu^^FÊ1Äu=]]∑¬	_
+                                                  ’Ω]_’^^[îa∫^^R^^B	ÅÑ@B !ê^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ’Ω (U+057D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...÷^^\ëå0§…ÛRwﬂPuŒˇ›Óa^^\^^Tu^^FÊ1Äu=]]∑¬	_’Ω
+                                                  ]_’^^[îa∫^^R^^B	ÅÑ@B !ê^^P...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.4 ...0§…ÛRwﬂPuŒˇ›Óa^^\^^Tu^^FÊ1Äu=]]∑¬	_’Ω]_’^^[
+                                                  îa∫^^R^^B	ÅÑ@B !ê^^PH^^H$^...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (’^^[).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...0§…ÛRwﬂPuŒˇ›Óa^^\^^Tu^^FÊ1Äu=]]∑¬	_’Ω]_’^^[
+                                                  îa∫^^R^^B	ÅÑ@B !ê^^PH^^H$^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "94.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...§…ÛRwﬂPuŒˇ›Óa^^\^^Tu^^FÊ1Äu=]]∑¬	_’Ω]_’^^[î
+                                                  a∫^^R^^B	ÅÑ@B !ê^^PH^^H$^^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "BA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ÛRwﬂPuŒˇ›Óa^^\^^Tu^^FÊ1Äu=]]∑¬	_’Ω]_’^^[îa∫
+                                                  ^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^R (U+0012)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ﬂPuŒˇ›Óa^^\^^Tu^^FÊ1Äu=]]∑¬	_’Ω]_’^^[îa∫^^R
+                                                  ^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Œˇ›Óa^^\^^Tu^^FÊ1Äu=]]∑¬	_’Ω]_’^^[îa∫^^R^^B
+                                                  	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...›Óa^^\^^Tu^^FÊ1Äu=]]∑¬	_’Ω]_’^^[îa∫^^R^^B	Å
+                                                  Ñ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Óa^^\^^Tu^^FÊ1Äu=]]∑¬	_’Ω]_’^^[îa∫^^R^^B	ÅÑ
+                                                  @B !ê^^PH^^H$^^D^^R^^B	ÅÑ@...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^Tu^^FÊ1Äu=]]∑¬	_’Ω]_’^^[îa∫^^R^^B	ÅÑ@B !ê
+                                                  ^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...u^^FÊ1Äu=]]∑¬	_’Ω]_’^^[îa∫^^R^^B	ÅÑ@B !ê^^P
+                                                  H^^H$^^D^^R^^B	ÅÑ@B !ê^^P∏...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^H (U+0008)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Ê1Äu=]]∑¬	_’Ω]_’^^[îa∫^^R^^B	ÅÑ@B !ê^^PH^^H
+                                                  $^^D^^R^^B	ÅÑ@B !ê^^P∏’  ¥...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.4 ...1Äu=]]∑¬	_’Ω]_’^^[îa∫^^R^^B	ÅÑ@B !ê^^PH^^H$
+                                                  ^^D^^R^^B	ÅÑ@B !ê^^P∏’  ¥ ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...=]]∑¬	_’Ω]_’^^[îa∫^^R^^B	ÅÑ@B !ê^^PH^^H$^^D
+                                                  ^^R^^B	ÅÑ@B !ê^^P∏’  ¥ WRö...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^R (U+0012)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...∑¬	_’Ω]_’^^[îa∫^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R
+                                                  ^^B	ÅÑ@B !ê^^P∏’  ¥ WRö^^P...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ..._’Ω]_’^^[îa∫^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B
+                                                  	ÅÑ@B !ê^^P∏’  ¥ WRö^^PH^^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Ω]_’^^[îa∫^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	Å
+                                                  Ñ@B !ê^^P∏’  ¥ WRö^^PH^^H$...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...]_’^^[îa∫^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ
+                                                  @B !ê^^P∏’  ¥ WRö^^PH^^H$^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no ! in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...[îa∫^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ@B !ê
+                                                  ^^P∏’  ¥ WRö^^PH^^H$^^D^^R...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...∫^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^P
+                                                  ∏’  ¥ WRö^^PH^^H$^^D^^R^^B...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Invalid UTF-8 byte "B8.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^P∏
+                                                  ’  ¥ WRö^^PH^^H$^^D^^R^^B	...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ’¥ (U+0574)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^P∏’  ¥
+                                                   WRö^^PH^^H$^^D^^R^^B	ÅÑ@B...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no W in font nullfont!
+Missing character: There is no R in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "9A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Ñ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^P∏’  ¥ WRö
+                                                  ^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ... !ê^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^P∏’  ¥ WRö^^P
+                                                  H^^H$^^D^^R^^B	ÅÑ@B !ê^^PH...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no H in font nullfont!
+
+! LaTeX Error: Unicode character ^^H (U+0008)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^P∏’  ¥ WRö^^PH^^H
+                                                  $^^D^^R^^B	ÅÑ@B !ê^^PH^^H$...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^H$^^D^^R^^B	ÅÑ@B !ê^^P∏’  ¥ WRö^^PH^^H$^^D
+                                                  ^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^R (U+0012)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^D^^R^^B	ÅÑ@B !ê^^P∏’  ¥ WRö^^PH^^H$^^D^^R
+                                                  ^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^R^^B	ÅÑ@B !ê^^P∏’  ¥ WRö^^PH^^H$^^D^^R^^B
+                                                  	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...R^^B	ÅÑ@B !ê^^P∏’  ¥ WRö^^PH^^H$^^D^^R^^B	Å
+                                                  Ñ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^B	ÅÑ@B !ê^^P∏’  ¥ WRö^^PH^^H$^^D^^R^^B	ÅÑ
+                                                  @B !ê^^PH^^H$^^D^^R^^B	ÅÑ¿...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Ñ@B !ê^^P∏’  ¥ WRö^^PH^^H$^^D^^R^^B	ÅÑ@B !ê
+                                                  ^^PH^^H$^^D^^R^^B	ÅÑ¿MA‡∂E...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ... !ê^^P∏’  ¥ WRö^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^P
+                                                  H^^H$^^D^^R^^B	ÅÑ¿MA‡∂E‘oJ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^H (U+0008)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^P∏’  ¥ WRö^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H
+                                                  $^^D^^R^^B	ÅÑ¿MA‡∂E‘oJÑ©OB...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...  ¥ WRö^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^D
+                                                  ^^R^^B	ÅÑ¿MA‡∂E‘oJÑ©OB !ê^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^R (U+0012)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ... WRö^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R
+                                                  ^^B	ÅÑ¿MA‡∂E‘oJÑ©OB !ê^^PH...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ö^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B
+                                                  	ÅÑ¿MA‡∂E‘oJÑ©OB !ê^^PH^^H...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	Å
+                                                  Ñ¿MA‡∂E‘oJÑ©OB !ê^^PH^^H$^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...PH^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ
+                                                  ¿MA‡∂E‘oJÑ©OB !ê^^PH^^H$^^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "C0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...H^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ¿
+                                                  MA‡∂E‘oJÑ©OB !ê^^PH^^H$^^D...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no A in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (‡∂E).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ¿MA‡∂E
+                                                  ‘oJÑ©OB !ê^^PH^^H$^^D^^R^^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (‘o).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...D^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ¿MA‡∂E‘o
+                                                  JÑ©OB !ê^^PH^^H$^^D^^R^^B	...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no J in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ¿MA‡∂E‘oJÑ
+                                                  ©OB !ê^^PH^^H$^^D^^R^^B	ÅÑ...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "A9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...R^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ¿MA‡∂E‘oJÑ©
+                                                  OB !ê^^PH^^H$^^D^^R^^B	ÅÑ@...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no ! in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ÅÑ@B !ê^^PH^^H$^^D^^R^^B	ÅÑ¿MA‡∂E‘oJÑ©OB !ê
+                                                  ^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...B !ê^^PH^^H$^^D^^R^^B	ÅÑ¿MA‡∂E‘oJÑ©OB !ê^^P
+                                                  H^^H$^^D^^R^^B	ÅÑ@B !ê^^PH...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no H in font nullfont!
+
+! LaTeX Error: Unicode character ^^H (U+0008)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^PH^^H$^^D^^R^^B	ÅÑ¿MA‡∂E‘oJÑ©OB !ê^^PH^^H
+                                                  $^^D^^R^^B	ÅÑ@B !ê^^PH^^H$...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^H$^^D^^R^^B	ÅÑ¿MA‡∂E‘oJÑ©OB !ê^^PH^^H$^^D
+                                                  ^^R^^B	ÅÑ@B !ê^^PH^^H$^^Dn...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^R (U+0012)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...$^^D^^R^^B	ÅÑ¿MA‡∂E‘oJÑ©OB !ê^^PH^^H$^^D^^R
+                                                  ^^B	ÅÑ@B !ê^^PH^^H$^^DnC^^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...D^^R^^B	ÅÑ¿MA‡∂E‘oJÑ©OB !ê^^PH^^H$^^D^^R^^B
+                                                  	ÅÑ@B !ê^^PH^^H$^^DnC^^H$¢...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^R^^B	ÅÑ¿MA‡∂E‘oJÑ©OB !ê^^PH^^H$^^D^^R^^B	Å
+                                                  Ñ@B !ê^^PH^^H$^^DnC^^H$¢ND...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...R^^B	ÅÑ¿MA‡∂E‘oJÑ©OB !ê^^PH^^H$^^D^^R^^B	ÅÑ
+                                                  @B !ê^^PH^^H$^^DnC^^H$¢ND∑...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...ÅÑ¿MA‡∂E‘oJÑ©OB !ê^^PH^^H$^^D^^R^^B	ÅÑ@B !ê
+                                                  ^^PH^^H$^^DnC^^H$¢ND∑°ÒJÆ&...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...MA‡∂E‘oJÑ©OB !ê^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^P
+                                                  H^^H$^^DnC^^H$¢ND∑°ÒJÆ&^^D...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^H (U+0008)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...E‘oJÑ©OB !ê^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H
+                                                  $^^DnC^^H$¢ND∑°ÒJÆ&^^D^^R^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...Ñ©OB !ê^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^D
+                                                  nC^^H$¢ND∑°ÒJÆ&^^D^^R^^B	Å...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no C in font nullfont!
+
+! LaTeX Error: Unicode character ^^H (U+0008)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...!ê^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^DnC^^H
+                                                  $¢ND∑°ÒJÆ&^^D^^R^^B	ÅÑ@B !...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Invalid UTF-8 byte "A2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^PH^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^DnC^^H$¢
+                                                  ND∑°ÒJÆ&^^D^^R^^B	ÅÑ@B !ê^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "B7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...H^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^DnC^^H$¢ND∑
+                                                  °ÒJÆ&^^D^^R^^B	ÅÑ@B !ê^^PH...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "A1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^H$^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^DnC^^H$¢ND∑°
+                                                  ÒJÆ&^^D^^R^^B	ÅÑ@B !ê^^PH^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÒJÆ&).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^^DnC^^H$¢ND∑°ÒJÆ&
+                                                  ^^D^^R^^B	ÅÑ@B !ê^^PH^^H$^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^R^^B	ÅÑ@B !ê^^PH^^H$^^DnC^^H$¢ND∑°ÒJÆ&^^D
+                                                  ^^R^^B	ÅÑ@B !ê^^PH^^H$^^D^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^R (U+0012)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...^^B	ÅÑ@B !ê^^PH^^H$^^DnC^^H$¢ND∑°ÒJÆ&^^D^^R
+                                                  ^^B	ÅÑ@B !ê^^PH^^H$^^D^^R^...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 40 strings out of 467871
+ 784 string characters out of 5418377
+ 433733 words of memory out of 5000000
+ 29016 multiletter control sequences out of 15000+600000
+ 627721 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,2n,20p,902b,59s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+!  ==> Fatal error occurred, no output PDF file produced!

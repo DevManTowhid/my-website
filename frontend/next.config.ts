@@ -15,6 +15,7 @@ const nextConfig: NextConfig = {
       },
     },
   },
+<<<<<<< HEAD
    images: {
     remotePatterns: [
       {
@@ -24,6 +25,12 @@ const nextConfig: NextConfig = {
       },
     ],
   }
+=======
+  output: "export",
+  images: {
+    unoptimized: true,
+  },
+>>>>>>> e5383e6cad8db3c818b99e67df5a95aea89f6447
 };
 
 

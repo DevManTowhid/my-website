@@ -92,7 +92,13 @@ const projects = [
 ];
 const Educations = [
   {name: "Bangladesh University of Engineering and Technology", Degree: "MSc Engg (ongoing)", Discipline: "Computer Science & Engineering" , logo: '/BUET_logo2.png', year: "2026 - Present"}, {name: "Rajshahi University of Engineering and Technology", Degree: "BSc Engg", Discipline: "Electrical and Computer Engineering", logo: '/RUET_logo.png', year: "2021 - 2024"}, {name: "Notre Dame College", Degree: "HSC", Discipline: "Science", logo: '/NDC_logo.png', year: "2018 - 2020"}
-]
+];
+const Contacts = {
+  email: 'towhidulalam632@gmail.com',
+  github: "github.com/devmantowhid",
+  linkedin: "www.linkedin.com/in/md-towhidul-alam-59b5b8302/",
+  
+};
 export default function Home() {
   return (
 
@@ -113,7 +119,77 @@ export default function Home() {
           className="mx-auto aspect-square w-full max-w-xs rounded-[25%] object-cover md:max-w-none"
         />
       </div>
-    </div>
+      
+<div className="contact-info">
+  <h2 className="mb-4 mt-6 text-center text-2xl font-bold">
+    Contact Information
+  </h2>
+
+  {/* Email - Top line */}
+  <div className="mb-4 text-center">
+    Email:{" "}
+    <a
+      href={`mailto:${Contacts.email}`}
+      className="text-blue-600 hover:underline"
+    >
+      {Contacts.email}
+    </a>
+  </div>
+
+  {/* Social icons - Bottom line */}
+  <div className="flex items-center justify-center gap-4">
+    <a
+      href={`https://${Contacts.github}`}
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="GitHub"
+    >
+      <Image
+        src="/github.png"
+        alt="GitHub Logo"
+        width={32}
+        height={32}
+        className="h-8 w-8 object-contain dark:invert"
+      />
+    </a>
+
+    <a
+      href={`https://${Contacts.linkedin}`}
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="LinkedIn"
+    >
+      <Image
+        src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000"
+        alt="LinkedIn Logo"
+        width={32}
+        height={32}
+        className="h-8 w-8 object-contain dark:invert"
+      />
+    </a>
+    
+<a
+  href="https://wa.me/8801709364471"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="WhatsApp"
+>
+  <Image
+    src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000"
+    alt="WhatsApp Logo"
+    width={32}
+    height={32}
+    className="h-8 w-8 object-contain"
+  />
+</a>
+
+  </div>
+</div>
+
+
+      </div>
+    
+
 
     {/* Right: About + Research Interests (2/3 width) */}
     <div className="w-full min-w-0 md:w-2/3">
@@ -263,7 +339,7 @@ export default function Home() {
   </section>
 
 <section className="education mb-16 mt-16 w-full overflow-x-auto rounded-lg border border-gray-300 dark:border-gray-700">
-  <h2 className="mb-6 border-b border-gray-300 pb-3 text-3xl font-bold underline dark:border-gray-700">
+  <h2 className="mb-6 border-b border-gray-300 pb-3 px-6 py-8 text-3xl font-bold underline dark:border-gray-700">
     Education
   </h2>
 
